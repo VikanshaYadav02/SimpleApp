@@ -16,4 +16,5 @@ dependencyResolutionManagement {
 rootProject.name = "apptext"
 include(":app")
 include(":app")
+include(":app")
  
